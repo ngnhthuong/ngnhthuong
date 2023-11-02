@@ -14,28 +14,7 @@ Technique:
 <div align="center">
 <div>
 	
-![Thuong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngnhthuong&show_icons=true&theme=light&hide=contribs,prs,issues&card_width=803)
-</div>
-<div>
-<a href="https://github.com/Thuongcodelife/Coffee-Price-Forcasting/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngnhthuong&repo=Coffee-Price-Forcasting&theme=light" />
-</a>    
-<a href="https://github.com/Thuongcodelife/Gold-Price-Forcasting/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngnhthuong&repo=Gold-Price-Forcasting&theme=light" />
-</a>    
-</div>
-<br>
-<div>
-<a href="https://github.com/Thuongcodelife/Ecommerce-Website/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngnhthuong&repo=Ecommerce-Website&theme=light" />
-</a>
-<a href="https://github.com/Thuongcodelife/BigData-Real-time-Sentiment-Analysis/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngnhthuong&repo=BigData-Real-time-Sentiment-Analysis&theme=light" />
-</a>
-</div>
-<br>
-<div>
- </div>
+
 
 <space><space>
 
