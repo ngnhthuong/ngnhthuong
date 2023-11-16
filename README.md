@@ -1,5 +1,5 @@
 # NGUYEN NHAT THUONG 👋🏻👋🏻👋🏻👋🏻👋🏻
-*`Computer Vision/ AI engineer - Fullstack Web Developer`*
+*`Computer Vision/ AI engineer`*
 
 I am a university student majoring in Information Systems as part of an advanced program.
 	
