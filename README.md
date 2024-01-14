@@ -14,7 +14,7 @@ I am a university student majoring in Information Systems as part of an advanced
 
 **Techniques 🤖**
 
-	✨ AI: Machine learning, Deep learning, Computer Vision, Keras, Tensorflow. 
+	✨ AI: Machine learning, Deep learning, Computer Vision, Keras, Tensorflow, Pytorch. 
  
   	✨ Web development: HTML/CSS, PHP, Javascript, ReactJS, NodeJS.
 
