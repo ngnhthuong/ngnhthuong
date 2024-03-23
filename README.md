@@ -1,4 +1,4 @@
-# NGUYEN NHAT THUONG 👋🏻👋🏻👋🏻👋🏻👋🏻
+# Hi, I'M NGUYEN NHAT THUONG 👋🏻
 *`AI ENGINEER`*
 
 I am a university student majoring in Information Systems as part of an advanced program.
@@ -9,7 +9,9 @@ I am a university student majoring in Information Systems as part of an advanced
 
 	✨ AI: Machine learning, Deep learning, Computer Vision, Keras, Tensorflow, Pytorch. 
  
-  	✨ Web development: HTML/CSS, PHP, Javascript, ReactJS, NodeJS.
+  	✨ Languages: Python, C++, Java, Javascript.
+   
+   	✨ Framework / Library: NodeJS, ReactJS, Django, Streamlit.
 
 	✨ Database: SQL, MySQL, MongoDB, Oracle.
 <p align="left"> 
