@@ -13,7 +13,7 @@ I am a university student majoring in Information Systems as part of an advanced
 
 	✨ Database: SQL, MySQL, MongoDB, Oracle.
 <p align="left"> 
-  <a href="https://github.com/ngnhthuong"><img alt="Language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngnhthuong&langs_count=4&layout=compact&theme=react&border_color=AED8E6&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="142px" width="100%"/></a>
+  <a href="https://github.com/ngnhthuong"><img alt="Language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngnhthuong&langs_count=4&layout=compact&theme=react&border_color=AED8E6&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="142px" /></a>
 </p>
 
 
