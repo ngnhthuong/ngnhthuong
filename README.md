@@ -7,11 +7,11 @@ I am a university student majoring in Information Systems as part of an advanced
 
 **Techniques 🤖**
 
-	✨ AI: Machine learning, Deep learning, Computer Vision, Pytorch. 
+	✨ AI: Machine learning, Deep learning, Computer Vision, Pytorch, GenAI. 
  
   	✨ Languages: Python, C++, Java, Javascript.
    
-   	✨ Framework / Library: NodeJS, ReactJS, Django, Streamlit.
+   	✨ Framework / Library: NodeJS, ReactJS, Flask.
 
 	✨ Database: SQL, MySQL, MongoDB, Oracle.
 
