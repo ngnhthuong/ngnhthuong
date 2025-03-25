@@ -1,5 +1,5 @@
 # Hi, I'M NGUYEN NHAT THUONG 👋🏻
-*`AI ENGINEER`*
+*`AI Engineer / MLOps Engineer`*
 
 I am a university student majoring in Information Systems as part of an advanced program.
 	
